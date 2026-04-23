@@ -22,3 +22,7 @@ Trends vary due to differences between Olympic event types
 **Files**
 Olympic Dashboard (.pbix)
 Dashboard Screenshots
+![Dashboard](Dashboard full.jpg)
+![Medal Trends](Medal Trends Over Time.jpg)
+![Top Countries](Top 10 Countries.jpg)
+![Top Sports](Top 10 Sports.jpg)
