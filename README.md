@@ -38,26 +38,24 @@ This project explores historical Olympic data to identify patterns in athlete de
 
 ## Dashboard Preview
 
-![Dashboard](./Dashboard full.jpg)
+![Dashboard](dashboard_full.jpg)
 
 ---
 
 ## Medal Trends Over Time
 
-![Medal Trends](./Medal Trends Over Time.jpg)
+![Medal Trends](medal_trends.jpg)
 
 ---
 
 ## Top Countries
 
-![Top Countries](./Top 10 Countries.jpg)
-
+![Top Countries](top_countries.jpg)
 ---
 
 ## Top Sports
 
-![Top Sports](./Top 10 Sports.jpg)
-
+![Top Sports](top_sports.jpg)
 ---
 
 ## Project Overview
